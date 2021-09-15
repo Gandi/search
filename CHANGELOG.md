@@ -1,3 +1,7 @@
+### Bug fixes
+
+Set explicitly the `button`'s type. This prevent the browser to take it for submit buttons.
+
 ## 0.18.4 (2021-05-27)
 
 ### New features
